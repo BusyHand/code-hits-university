@@ -1,7 +1,7 @@
 package ru.university.hits.code.module_2;
 import java.util.Scanner;
 
-class Main_Интервалы_в_Массиве {
+class Интервалы_в_Массиве {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

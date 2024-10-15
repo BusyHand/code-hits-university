@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-class Main_Интерактор_Найти_Количество_Едениц {
+class Интерактор_Найти_Количество_Едениц {
 
 	private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

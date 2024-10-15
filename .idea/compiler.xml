@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Code_EJ" />
         <module name="code-hits-university" />
+        <module name="untitled" />
       </profile>
     </annotationProcessing>
   </component>

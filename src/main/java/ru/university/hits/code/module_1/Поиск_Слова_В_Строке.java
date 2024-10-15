@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import static java.lang.Math.max;
 
-class КМП_Поиск {
+class Поиск_Слова_В_Строке {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
