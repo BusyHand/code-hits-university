@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import static java.lang.Math.max;
 
-class Замена_подстрок_в_строке {
+class Поменять_местами_два_слова {
 
 	public static void main(String[] args) {
 		StringBuilder sb = new StringBuilder();

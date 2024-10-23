@@ -4,7 +4,6 @@ import java.util.Scanner;
 class Наибольшая_Последовательность {
 
 	public static void main(String[] args) {
-		StringBuilder sb = new StringBuilder();
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		long[] array = new long[n];
@@ -33,6 +32,7 @@ class Наибольшая_Последовательность {
 			i++;
 		}
 
+		StringBuilder sb = new StringBuilder();
 		for (; i < n; i++) {
 			sb.append(array[i]);
 		}

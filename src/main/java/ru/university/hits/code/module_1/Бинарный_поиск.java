@@ -1,6 +1,58 @@
 package ru.university.hits.code.module_1;
 import java.util.Scanner;
+/*
+#include <iostream>
+#include <vector>
+#include <sstream>
 
+using namespace std;
+
+int main() {
+    string line;
+    getline(cin, line);
+    getline(cin, line);
+
+    stringstream ss(line);
+    vector<int> array;
+    int num;
+
+    while (ss >> num) {
+        array.push_back(num);
+    }
+
+    int left = 0;
+    bool hasZero = false;
+    int maxLength = 0;
+    int index = 0;
+    int indexZero = 0;
+
+    for (int right = 0; right < array.size(); right++) {
+        int value = array[right];
+
+        if (value == 0) {
+            if (hasZero) {
+                while (array[left] != 0) {
+                    left++;
+                }
+                left++;
+            }
+            hasZero = true;
+            indexZero = right;
+        }
+
+        int length = right - left + 1;
+        if (maxLength < length) {
+            maxLength = length;
+            index = indexZero;
+        }
+    }
+
+    cout << index + 1 << endl;
+
+    return 0;
+}
+
+ */
 class Бинарный_поиск {
 
 	public static void main(String[] args) {

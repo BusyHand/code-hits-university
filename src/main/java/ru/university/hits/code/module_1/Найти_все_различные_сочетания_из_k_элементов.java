@@ -1,6 +1,6 @@
 package ru.university.hits.code.module_1;
 
-class K_сочетания {
+class Найти_все_различные_сочетания_из_k_элементов {
 
 	
 	/*
