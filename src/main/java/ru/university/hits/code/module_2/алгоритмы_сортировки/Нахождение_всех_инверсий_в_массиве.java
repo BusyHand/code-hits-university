@@ -1,7 +1,7 @@
-package ru.university.hits.code.module_2;
+package ru.university.hits.code.module_2.алгоритмы_сортировки;
 import java.util.Scanner;
 
-class Количество_Инверсий_в_Массиве {
+class Нахождение_всех_инверсий_в_массиве {
 
 	private static long inversionCount;
 

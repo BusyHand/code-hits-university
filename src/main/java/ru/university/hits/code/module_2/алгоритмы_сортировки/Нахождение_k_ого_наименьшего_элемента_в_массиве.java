@@ -1,7 +1,7 @@
-package ru.university.hits.code.module_2;
+package ru.university.hits.code.module_2.алгоритмы_сортировки;
 import java.util.Scanner;
 
-class K_наименьшее {
+class Нахождение_k_ого_наименьшего_элемента_в_массиве {
 
 	public static void main(String[] args) {
 		long currentTimeMillis1 = System.currentTimeMillis();

@@ -1,4 +1,4 @@
-package ru.university.hits.code.module_2;
+package ru.university.hits.code.module_2.алгоритмы_сортировки;
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 

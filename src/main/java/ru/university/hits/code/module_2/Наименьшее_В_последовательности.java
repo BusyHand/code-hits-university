@@ -2,6 +2,9 @@ package ru.university.hits.code.module_2;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/**
+ * Пропало на еже
+ */
 class Наименьшее_В_последовательности {
 
 	private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

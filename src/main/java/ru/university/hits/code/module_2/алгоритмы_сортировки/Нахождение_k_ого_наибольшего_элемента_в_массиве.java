@@ -1,8 +1,8 @@
-package ru.university.hits.code.module_2;
+package ru.university.hits.code.module_2.алгоритмы_сортировки;
 import java.util.Arrays;
 import java.util.Scanner;
 
-class К_наибольшее {
+class Нахождение_k_ого_наибольшего_элемента_в_массиве {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

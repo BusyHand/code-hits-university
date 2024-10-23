@@ -1,9 +1,9 @@
-package ru.university.hits.code.module_2;
+package ru.university.hits.code.module_2.алгоритмы_поиска;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-class Поиск_В_круговом_массиве {
+class Поиск_элемента_в_круговом_массиве {
 
 	private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

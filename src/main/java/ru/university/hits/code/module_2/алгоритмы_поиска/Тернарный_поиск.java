@@ -1,10 +1,10 @@
-package ru.university.hits.code.module_2;
+package ru.university.hits.code.module_2.алгоритмы_поиска;
 
 import java.util.Scanner;
 
 import static java.lang.Math.sqrt;
 
-class Тернарный_Поиск {
+class Тернарный_поиск {
 
 	private static int vp;
 

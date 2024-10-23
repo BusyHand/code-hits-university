@@ -1,10 +1,10 @@
-package ru.university.hits.code.module_2;
+package ru.university.hits.code.module_2.алгоритмы_поиска;
 
 import java.util.Scanner;
 
 import static java.lang.Math.min;
 
-class БинПоиск_По_Строкам {
+class Поиск_в_массиве_строк {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

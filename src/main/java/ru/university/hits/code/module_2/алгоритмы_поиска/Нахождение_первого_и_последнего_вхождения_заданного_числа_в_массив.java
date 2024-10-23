@@ -1,7 +1,7 @@
-package ru.university.hits.code.module_2;
+package ru.university.hits.code.module_2.алгоритмы_поиска;
 import java.util.Scanner;
 
-class Интервалы_в_Массиве {
+class Нахождение_первого_и_последнего_вхождения_заданного_числа_в_массив {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package ru.university.hits.code.module_2;
+package ru.university.hits.code.module_2.алгоритмы_поиска;
 
 import java.util.Scanner;
 
@@ -48,7 +48,7 @@ int main() {
     return 0;
 }
  */
-class Кубическое_Спомощью_Бинарного_Поиска {
+class Бинарный_поиск_на_смену_знака_у_функции {
 
 	private static double a;
 
